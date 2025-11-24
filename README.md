@@ -7,13 +7,31 @@ Welcome to my GitHub profile! I'm a **MSc Artificial Intelligence student** with
 ## 🛠️ Skills & Technologies
 
 **Languages:**  
-🐍 Python | 🐘 SQL | 💻 C++ | ⚡ JavaScript | #️⃣ C# | 🌐 HTML | 🎨 CSS  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 
 **Frameworks & Libraries:**  
-🤖 Scikit-learn | 🧠 TensorFlow | 🐼 Pandas | 🔢 NumPy | 📊 Matplotlib | .NET Core  
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)  
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)  
 
 **Tools & Platforms:**  
-📊 Power BI | 📈 Excel (Advanced) | 📝 Jupyter Notebook | ☁️ Azure | 🔗 Git/GitHub | 🛠️ Google Workspaces | 📋 Jira | 🔄 Trello  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)  
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)  
+![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)  
 
 **Concepts & Methodologies:**  
 📌 Agile (SCRUM/Kanban) | 🗂️ Project Management | 📑 Product Requirements | 🧩 Roadmapping | 🧹 Data Preprocessing | 📊 KPI Tracking | 🚀 Product Ownership  
@@ -40,8 +58,8 @@ Welcome to my GitHub profile! I'm a **MSc Artificial Intelligence student** with
 ## 📫 Contact Me
 
 - ✉️ Email: yarushahesardar@gmail.com  
-- 🔗 LinkedIn: [https://www.linkedin.com/in/yarushah-e-sardar-14ba89258/](#)  
-- 🖥️ GitHub: [(https://github.com/yarushahemmanuel10)](#)  
+- 🔗 LinkedIn: [https://github.com/yarushahemmanuel10](#)  
+- 🖥️ GitHub: [https://www.linkedin.com/in/yarushah-e-sardar-14ba89258/](#)  
 
 ---
 
@@ -53,11 +71,6 @@ Welcome to my GitHub profile! I'm a **MSc Artificial Intelligence student** with
 
 ---
 
-## 📈 GitHub Stats
-
-![Yarushah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yarushah2108&show_icons=true&theme=radical)
-
----
 
 ## 🔗 Let's Connect
 
